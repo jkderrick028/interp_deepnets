@@ -1,0 +1,182 @@
+ScreenShot175_masked_rs.bmp
+bagel
+pretzel
+mortar
+neck brace
+mask
+
+ScreenShot195_masked_rs.bmp
+tripod
+crane (machine)
+swing
+hook
+chime
+
+ScreenShot207_masked_rs.bmp
+shovel
+spatula
+broom
+swab
+umbrella
+
+ScreenShot241_masked_rs.bmp
+car wheel
+Model T
+sports car
+racer
+gasmask
+
+ScreenShot279_masked_rs.bmp
+pitcher
+mailbag
+cuirass
+breastplate
+holster
+
+ScreenShot287_masked_rs.bmp
+mitten
+sock
+wool
+carpenter's kit
+Band Aid
+
+ScreenShot304_masked_rs.bmp
+analog clock
+wall clock
+saltshaker
+digital clock
+barometer
+
+ScreenShot308_masked_rs.bmp
+goblet
+red wine
+beer glass
+cocktail shaker
+wine bottle
+
+ScreenShot317_masked_rs.bmp
+coffeepot
+water jug
+teapot
+espresso maker
+pitcher
+
+ScreenShot338_masked_rs.bmp
+crash helmet
+football helmet
+knee pad
+oxygen mask
+pickelhaube
+
+ScreenShot339_masked_rs.bmp
+matchstick
+hourglass
+bath towel
+doormat
+rubber eraser
+
+ScreenShot343_masked_rs.bmp
+matchstick
+rubber eraser
+ice lolly
+chest
+mousetrap
+
+ScreenShot344_masked_rs.bmp
+candle
+pencil sharpener
+carton
+mousetrap
+matchstick
+
+ScreenShot350_masked_rs.bmp
+dining table
+marimba
+desk
+pedestal
+pool table
+
+ScreenShot351_masked_rs.bmp
+television
+scabbard
+refrigerator
+toaster
+dishwasher
+
+ScreenShot353_masked_rs.bmp
+mousetrap
+binoculars
+spotlight
+revolver
+printer
+
+bagel.bmp                  
+perfume
+matchstick
+lipstick
+hook
+coffee mug
+
+brick.bmp                  
+perfume
+matchstick
+web site
+hair spray
+lipstick
+
+candle.bmp                 
+perfume
+matchstick
+hair spray
+web site
+coffee mug
+
+clock.bmp                  
+matchstick
+digital clock
+stopwatch
+theater curtain
+web site
+
+glass.bmp                  
+matchstick
+hook
+perfume
+web site
+coffee mug
+
+glove.bmp                  
+lens cap
+stopwatch
+perfume
+matchstick
+coffee mug
+
+helmet.bmp                 
+matchstick
+digital clock
+hook
+stopwatch
+spotlight
+
+kettle.bmp                 
+perfume
+matchstick
+digital clock
+hair spray
+web site
+
+knife.bmp                  
+digital clock
+digital watch
+matchstick
+stopwatch
+hair spray
+
+ladder.bmp                 
+matchstick
+digital clock
+perfume
+hair spray
+stopwatch
+

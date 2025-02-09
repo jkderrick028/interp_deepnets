@@ -1,0 +1,224 @@
+ScreenShot175_masked_rs.bmp
+bagel
+orange
+pretzel
+sea urchin
+French loaf
+
+ScreenShot195_masked_rs.bmp
+tripod
+chime
+stretcher
+crutch
+screwdriver
+
+ScreenShot207_masked_rs.bmp
+syringe
+shovel
+screwdriver
+safety pin
+bolo tie
+
+ScreenShot241_masked_rs.bmp
+car wheel
+puck
+buckle
+lens cap
+coil
+
+ScreenShot279_masked_rs.bmp
+cello
+violin
+mouse
+clog
+acoustic guitar
+
+ScreenShot287_masked_rs.bmp
+mitten
+cardigan
+sock
+wool
+stole
+
+ScreenShot304_masked_rs.bmp
+wall clock
+analog clock
+puck
+bottlecap
+digital clock
+
+ScreenShot308_masked_rs.bmp
+goblet
+eggnog
+beer glass
+vase
+red wine
+
+ScreenShot317_masked_rs.bmp
+espresso maker
+coffeepot
+water jug
+teapot
+milk can
+
+ScreenShot338_masked_rs.bmp
+crash helmet
+football helmet
+mouse
+ocarina
+spotlight
+
+ScreenShot339_masked_rs.bmp
+envelope
+dishrag
+bath towel
+handkerchief
+book jacket
+
+ScreenShot343_masked_rs.bmp
+ice lolly
+dishrag
+studio couch
+velvet
+purse
+
+ScreenShot344_masked_rs.bmp
+chest
+envelope
+shield
+carton
+binder
+
+ScreenShot350_masked_rs.bmp
+desk
+pedestal
+dining table
+pool table
+file
+
+ScreenShot351_masked_rs.bmp
+letter opener
+spatula
+cleaver
+ballpoint
+drumstick
+
+ScreenShot353_masked_rs.bmp
+guillotine
+binder
+mousetrap
+Polaroid camera
+cassette
+
+bagel.bmp                  
+hook
+corkscrew
+digital clock
+street sign
+chain
+
+brick.bmp                  
+hook
+digital clock
+nail
+analog clock
+corkscrew
+
+candle.bmp                 
+digital clock
+street sign
+coffee mug
+lens cap
+cup
+
+clock.bmp                  
+corkscrew
+hook
+loupe
+loudspeaker
+screw
+
+glass.bmp                  
+hook
+chain
+corkscrew
+safety pin
+digital clock
+
+glove.bmp                  
+nail
+safety pin
+hook
+corkscrew
+analog clock
+
+helmet.bmp                 
+digital clock
+computer keyboard
+street sign
+rule
+switch
+
+kettle.bmp                 
+digital clock
+hook
+street sign
+switch
+analog clock
+
+knife.bmp                  
+digital clock
+combination lock
+switch
+street sign
+analog clock
+
+ladder.bmp                 
+digital clock
+hook
+typewriter keyboard
+screw
+chain
+
+pedal.bmp                  
+digital clock
+hook
+nail
+corkscrew
+fire screen
+
+saddle.bmp                 
+digital clock
+screw
+corkscrew
+hook
+analog clock
+
+spade.bmp                  
+digital clock
+hook
+switch
+screw
+corkscrew
+
+sponge.bmp                 
+chain
+corkscrew
+lens cap
+typewriter keyboard
+screw
+
+table.bmp                  
+switch
+digital clock
+loudspeaker
+reflex camera
+lens cap
+
+wheel.bmp                  
+digital clock
+hook
+screw
+corkscrew
+typewriter keyboard
+
